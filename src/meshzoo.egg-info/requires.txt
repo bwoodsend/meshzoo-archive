@@ -1,0 +1,7 @@
+numpy
+
+[all]
+matplotlib
+
+[plot]
+matplotlib
